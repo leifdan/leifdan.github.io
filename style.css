@@ -1,0 +1,11 @@
+.banner{
+  background-color: DarkBlue;
+  height: 50px
+}
+
+.banner .headline{
+  padding: 4px;
+  padding-left:8px;
+  font-size: 24px;
+  color: white;
+}
