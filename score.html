@@ -17,13 +17,21 @@
     function doSomething(){
       alert("Hello world!");
     }
+      
   </script>
 </head>
 
-<body>
+<body onload="onload()">
+  <div class="written-date">4/20/2015</div>
   <div class="banner">
-    banner
+    <div class="headline">Scorecard</div>
   </div>
+  <div class="options-banner">
+    <select id="innings">
+      <option value="7">7</option>
+    </select>
+  </div>
+  
   <div class="test">
     This is my test div
   </div>
