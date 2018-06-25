@@ -1,5 +1,13 @@
-{
-   "webcredentials": {
-       "apps": [    "52M78JPB4N.com.forumcu.cuonline-tf" ]
-    }
+{  
+   "applinks":{  
+      "apps":[],
+      "details":{  
+         "52M78JPB4N.com.forumcu.cuonline-tf":{  
+            "paths":["*"]
+         }
+      }
+   },
+   "webcredentials":{  
+      "apps":["52M78JPB4N.com.forumcu.cuonline-tf"]
+   }
 }
