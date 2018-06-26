@@ -4,10 +4,16 @@
       "details":{  
          "52M78JPB4N.com.forumcu.cuonline-tf":{  
             "paths":["*"]
+         },
+         "52M78JPB4N.com.forumcu.cuonline":{  
+            "paths":["*"]
          }
       }
    },
    "webcredentials":{  
-      "apps":["52M78JPB4N.com.forumcu.cuonline-tf"]
+      "apps":[  
+         "52M78JPB4N.com.forumcu.cuonline-tf",
+         "52M78JPB4N.com.forumcu.cuonline"
+      ]
    }
 }
